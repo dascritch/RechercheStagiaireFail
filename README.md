@@ -10,11 +10,15 @@ des pratiques prédatrices de stages dans notre secteur.
 
 projet d'un site UrgentStagiaireFail
 
+- page sur l'historique légal et le but d'un stage
+
 - page pour les agences
 
 - page pour les stagiaires
 
 - page pour les écoles, syndicats étudiants
+
+- page pour les sites d'annonces d'emploi
 
 - page sur ce que doit et ne doit pas accepter un stagiaire
 
