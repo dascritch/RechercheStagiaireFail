@@ -1,4 +1,7 @@
-Profil :
+# Générateur de CV
+
+
+## Profil :
 
 Passioné par le web, totalement formé à toutes les technologies, je sais travailler en groupe, et de façon autonome. Je possede un grand sens de l’adaptation. Ouvert d’esprit et rigoureux, je suis capable de réaliser le travail de plusieurs personnes à la fois.
 
@@ -28,7 +31,7 @@ Je connais
 
 - Les machines expressos du monde entier
 
-Réalisations :
+## Réalisations :
 
 - Directeur technique junior agence WebSpecialists : a encadré 5 stagiaires bénévoles
 
@@ -40,7 +43,7 @@ Réalisations :
 
 - Création des comptes de chaque projet sur les réseaux sociaux (Facebook, Twitter, Google+, Path, Tumblr,...)
 
-Hobbies :
+## Hobbies :
 
 - Internet
 
