@@ -7,6 +7,10 @@ Tu cherches un stagiaire à plein temps pour une durée supérieure à 3 mois ?
 Mais alors ton stagiaire ne pourra jamais suivre ses cours alors que tu ne pourras jamais
 lui proposer d'emploi correctement payé à sa sortie d'école.
 
+Contrairement à une prestation extérieure ou celui d'un salarié, le travail effectué par un stagiaire n'a
+strictement aucune garantie. Et pour cause : il est en formation. Alors pourquoi vouloir lui faire faire
+du travail de production sans tutorat approprié ?
+
 En publiant ouvertement ce genre d'annonce, sache, employeur, que tu diffuses une image désastreuse de ta marque.
 Si ton site est au rabais, l'ensemble de tes produits et services le sont aussi.
 Uoi, les clients veulent des prix bas, mais pas forcément avoir une qualité déplorable.
