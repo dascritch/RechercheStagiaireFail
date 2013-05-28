@@ -1,7 +1,8 @@
 Vous êtes entré dans cette boîte car ils vous ont promis un emploi à plein temps à la sortie ?
 Il y a 8 stagiaires qui font le même travail que vous, aucun salarié à poste équivalent, que des cadres
 et des commerciaux ?
-Évidemment, vous travaillez directement sur de la production, on vous engueulera en cas d'erreur, et vous
+Évidemment, vous travaillez directement sur de la production, personne de réellement compétent ne sera là 
+pour vous aider dans cette étrange “formation”, on vous engueulera en cas d'erreur, et vous
 n'apprendrez qu'une chose : à fermer votre gueule pour un prix vil.
 
 Soyez assurés, à la fin de votre stage, ils ne vous laisseront pas rester chez eux.
