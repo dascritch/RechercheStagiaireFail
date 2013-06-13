@@ -17,3 +17,7 @@ Uoi, les clients veulent des prix bas, mais pas forcément avoir une qualité d�
 
 Ton annonce montre que tu n'as aucun respect de la valeur travail, ni de la relation client.
 Alors pourquoi venir te voir ?
+
+
+Pour mieux y réfléchir :
+- http://cabaroc.com/attendez-dembaucher-un-amateur/
