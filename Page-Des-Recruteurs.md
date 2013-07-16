@@ -21,3 +21,4 @@ Alors pourquoi venir te voir ?
 
 Pour mieux y réfléchir :
 - http://cabaroc.com/attendez-dembaucher-un-amateur/
+- http://www.liberation.fr/societe/2013/07/16/une-photo-du-petit-gregory-utilisee-par-erreur-sur-une-publicite_918690
