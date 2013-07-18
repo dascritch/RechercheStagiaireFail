@@ -27,3 +27,4 @@ projet d'un site UrgentStagiaireFail
 - générateur d'un cv idéal de faux-stagiaire piégé 
 
 - liens vers http://urgentrecherchestagiaire.tumblr.com/
+- lecture critique du site http://www.monstageenligne.fr/
